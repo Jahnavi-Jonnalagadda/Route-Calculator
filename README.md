@@ -3,7 +3,7 @@
 <h3 align="center">A Flutter app using Google Maps SDK & Directions API</h4>
 
 <p align="center">
-  <img src="https://github.com/sbis04/flutter_maps/raw/master/screenshots/map_view.png" alt="Flutter Maps" />
+  <img src="screenshots/mapview.img" alt="Flutter Maps" />
 </p>
 
 ## Plugins
